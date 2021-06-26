@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=LeeReindeer)
 
-- 🤔 I'm using `Java`, `GoLang`, `Rust`.
-- 🌱 I'm currenly learning MIT6.824 ...
+- 🤔 I'm using `Java`, `Golang`, `Rust`.
