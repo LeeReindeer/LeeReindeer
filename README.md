@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![stats](https://github-readme-stats.vercel.app/api?username=LeeReindeer)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeeReindeer" />
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&hide=javascript,html,css" />
+
 
 - 🤔 I'm using `Java`, `Golang`, `Rust`.
