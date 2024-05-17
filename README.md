@@ -22,15 +22,17 @@ Here are some ideas to get you started:
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&hide=javascript,html,css" /> -->
 
+[![Vistor Count](https://count.getloli.com/get/@LeeReindeer?theme=gelbooru)](#)
+
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&theme=dark&hide=javascript,html,css"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&theme=dark&hide=javascript%2Chtml%2Ccss"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&hide=javascript,html,css"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&hide=javascript%2Chtml%2Ccss"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&hide=javascript,html,css" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&hide=javascript%2Chtml%2Ccss" />
 </picture>
 
