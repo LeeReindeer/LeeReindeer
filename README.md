@@ -7,6 +7,7 @@
 
 Here are some ideas to get you started:
 -->
+![](https://komarev.com/ghpvc/?username=LeeReindeer&style=for-the-badge)
 
 - 👨‍💻 I’m currently working at Alibaba
 - 🤔 I'm skilled in `Java` and `C`
@@ -21,8 +22,6 @@ Here are some ideas to get you started:
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeeReindeer" /> -->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&hide=javascript,html,css" /> -->
-
-[![Vistor Count](https://count.getloli.com/get/@LeeReindeer?theme=gelbooru)](#)
 
 <picture>
   <source
