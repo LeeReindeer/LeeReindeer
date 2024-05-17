@@ -20,8 +20,17 @@ Here are some ideas to get you started:
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeeReindeer" /> -->
 
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&hide=javascript,html,css" /> -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&hide=javascript,html,css" />
-
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&theme=dark&hide=javascript,html,css"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&hide=javascript,html,css"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&hide=javascript,html,css" />
+</picture>
 
