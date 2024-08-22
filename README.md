@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=LeeReindeer&style=for-the-badge)
 
-- 👨‍💻 I’m currently working at Alibaba
+- 👨‍💻 I’m currently working at Alipay
 - 🤔 I'm skilled in `Java` and `C`
-- 🌱 I’m currently learning `Golang` and `Rust`
+- 🌱 I’m currently learning `Rust`
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
