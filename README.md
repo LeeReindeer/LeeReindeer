@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&hide=javascript,html,css" /> -->
 
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&theme=dark&hide=javascript%2Chtml%2Ccss"
     media="(prefers-color-scheme: dark)"
@@ -33,5 +33,5 @@ Here are some ideas to get you started:
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeReindeer&layout=compact&hide=javascript%2Chtml%2Ccss" />
-</picture>
+</picture> -->
 
